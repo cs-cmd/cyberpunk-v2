@@ -58,7 +58,7 @@ call HighlightFor("CurSearch", "#120b10", "#fffc58", "NONE")
 " Other
 
 call HighlightFor("VertSplit", "#FF0055", "#101116", "NONE")
-call HighlightFor("WinSeparator", "#FF0055", "#101116", "NONE")
+call HighlightFor("WinSeparator", "#FF0055", "#120b10", "NONE")
 
 call HighlightFor("WildMenu",  "#00FFC8", "NONE", "bold")
 call HighlightFor("Directory", "#00FFC8", "NONE", "NONE")
